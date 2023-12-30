@@ -48,7 +48,7 @@ description: Learn AWS Load Balancer Controller - External DNS Install
 - Make a note of Policy ARN which we will use in next step
 ```t
 # Policy ARN
-arn:aws:iam::180789647333:policy/AllowExternalDNSUpdates
+arn:aws:iam::041895917391:policy/AllowExternalDNSUpdates
 ```  
 
 
